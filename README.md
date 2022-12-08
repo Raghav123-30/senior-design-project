@@ -15,5 +15,3 @@
 
 
 
-
-### <i>Current task :- Implement State of Art 3D cycle GAN for translating T1 images to T2.</i>
